@@ -1,6 +1,6 @@
 # QuartDepth
 
-Official repo for paper: [QuartDepth: Post-Training Quantization for Real-Time Depth Estimation on the Edge"](https://arxiv.org/abs/2503.16709).
+Official repo for paper: [QuartDepth: Post-Training Quantization for Real-Time Depth Estimation on the Edge](https://arxiv.org/abs/2503.16709).
 
 This paper is accepted by CVPR 2025
 
